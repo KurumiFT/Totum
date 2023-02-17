@@ -1,0 +1,12 @@
+{
+  "name": "Totum",
+  "tree": {
+    "$className": "DataModel",
+
+      "ReplicatedStorage": {
+        "Totum": {
+          "$path": "src"
+        }
+      }
+  }
+}
